@@ -1,16 +1,17 @@
-Example form with formiz in expo react-native
+# Example form with formiz in expo react-native
 
-Installation: 
+## Installation: 
 
-git clone https://github.com/boubou1100/formiz-react-native-example.git
+> git clone https://github.com/boubou1100/formiz-react-native-example.git
 
-cd formiz-react-native-example
+> cd formiz-react-native-example
 
-expo install 
+> expo install 
 
-Test: 
+## Test: 
 
-expo start
+> expo start
 
 You can add some styling like you want 
+
 Enjoy !
